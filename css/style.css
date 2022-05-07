@@ -253,6 +253,9 @@ margin-bottom: 10px;
 }
 
 .team-leader {
+margin-top: 30px;
+margin-bottom: 10px;
+
   font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
@@ -261,10 +264,43 @@ margin-bottom: 10px;
 }
 
 .team-profesion {
+padding-bottom: 30px;
+
   font-size: 16px;
   line-height: 1.19;
   text-align: center;
 }
+/* Футер */
+
+.footer {
+  background-color: #2f303a;
+}
+
+.footer .logo {
+  margin: 60px 0px 20px 0px;
+}
+
+.adress {
+  font-style: inherit;
+  color: #ffffff;
+}
+
+.adresa {
+  margin-bottom: 9px;
+}
+
+.contscts-footer-list {
+padding-bottom: 60px;
+}
+
+.contacts-footer {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.contacts-footer-item:not(:last-child) {
+  margin-bottom: 9px;
+}
+
 
 /* Стили второй вкладки ПОРТФОЛИО */
 /* Галерея*/
@@ -322,16 +358,4 @@ margin-bottom: 10px;
   text-decoration: none;
 }
 
-/* Подвал сайта*/
-.footer {
-  background-color: #2f303a;
-}
 
-.adress {
-  font-style: inherit;
-  color: #ffffff;
-}
-
-.contacts-footer {
-  color: rgba(255, 255, 255, 0.6);
-}
