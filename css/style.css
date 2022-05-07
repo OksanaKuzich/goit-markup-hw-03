@@ -43,7 +43,6 @@ p {
   margin: 0 auto;
   padding-left: 15px;
   padding-right: 15px;
-  outline: 1px solid red;
 }
 
 .header > .container {
@@ -344,6 +343,7 @@ p {
 .projects {
   display: flex;
   flex-wrap: wrap;
+  padding-bottom: 94px;
 }
 .projects-list {
 margin-bottom: 20px;
