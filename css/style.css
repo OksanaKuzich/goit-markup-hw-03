@@ -346,9 +346,8 @@ p {
   padding-bottom: 94px;
 }
 .projects-list {
-margin-bottom: 20px;
+  margin-bottom: 20px;
   margin-right: 30px;
-
 
   background: #ffffff;
   border: 1px solid #eeeeee;
@@ -362,7 +361,7 @@ margin-bottom: 20px;
 }
 
 .projects-name {
-margin: 20px 0 4px 24px;
+  margin: 20px 0 4px 24px;
 
   font-weight: 700;
   font-size: 18px;
@@ -372,8 +371,8 @@ margin: 20px 0 4px 24px;
 }
 
 .projects-view {
-margin-bottom: 20px;
-margin-left: 24px;
+  margin-bottom: 20px;
+  margin-left: 24px;
 
   font-size: 16px;
   line-height: 1.88;
